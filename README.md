@@ -1,6 +1,6 @@
-# NotifyOut-macOS
+# NotifyOut-Desktop
 
-The macOS client to receive notifications from NotifyOut-iOS
+The desktop client to receive notifications from NotifyOut-iOS
 
 ## TODO
 
@@ -8,7 +8,7 @@ The macOS client to receive notifications from NotifyOut-iOS
  - [ ] LAN notification receiver
  - [ ] Bluetooth notification receiver
  - [ ] USB notification receiver (libusbmuxd, thanks ``Aaronius_Leonius``)
- - [ ] Sending notifications from macOS to other devices? 
+ - [ ] Sending notifications from Desktop to other devices? 
 
 ## Credits
 

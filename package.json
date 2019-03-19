@@ -1,0 +1,19 @@
+{
+  "name": "notifyout_desktop",
+  "version": "0.1.0",
+  "description": "The desktop client for the NotifyOut iOS tweak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jammehcow/NotifyOut-macOS.git"
+  },
+  "author": "jammehcow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jammehcow/NotifyOut-macOS/issues"
+  },
+  "homepage": "https://github.com/jammehcow/NotifyOut-macOS#readme"
+}
